@@ -1,5 +1,5 @@
 # ιMσDzF4Π4ΤιK
-ui_Base fournit des addons essentiels côté client pour votre serveur BeamMP, comprenant plusieurs fonctionnalités telles que le message du jour (motd) avec prise en charge du BBCode, des restrictions pour les joueurs, des limitations de réinitialisation, la synchronisation jour/nuit et la synchronisation de l'environnement (météo).
+UI_Base (2023) fournit des addons essentiels côté client pour votre serveur BeamMP, comprenant plusieurs fonctionnalités telles que le message du jour (motd) avec prise en charge du BBCode, des restrictions pour les joueurs, des limitations de réinitialisation, la synchronisation jour/nuit et la synchronisation de l'environnement (météo).
 
 ## Pour commencer
 1. Téléchargez la dernière version de ιMσDzF4Π4ΤιK UI_Base.
@@ -14,7 +14,7 @@ Variables :
 * `{serverTime}` - Cette variable affiche l'heure actuelle du serveur telle que définie dans la configuration.
 
 ## Questions, demandes de fonctionnalités et bugs
-Si vous avez des questions, des demandes de fonctionnalités ou si vous rencontrez des bugs, veuillez créer une issue sur le [GitHub](https://github.com/iMoDzF4N4T1K/ui_base).
+Si vous avez des questions, des demandes de fonctionnalités ou si vous rencontrez des bugs, veuillez créer une issue sur le [GitHub]([https://github.com/iMoDzF4N4T1K/ui_base/issues).
 
 ## Captures d'écran
 ![Capture d'écran 1](https://i.imgur.com/RSBVDko.png)
