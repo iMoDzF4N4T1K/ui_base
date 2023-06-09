@@ -14,6 +14,6 @@ Variables :
 * `{serverTime}` - Cette variable affiche l'heure actuelle du serveur telle que définie dans la configuration.
 
 ## Questions, demandes de fonctionnalités et bugs
-Si vous avez des questions, des demandes de fonctionnalités ou si vous rencontrez des bugs, veuillez créer une issue sur le [dépôt GitHub](https://github.com/IMODZ4FUN/IMODZF4NTIK_Base).
+Si vous avez des questions, des demandes de fonctionnalités ou si vous rencontrez des bugs, veuillez créer une issue sur le [GitHub](https://github.com/iMoDzF4N4T1K/ui_base).
 
 ## Captures d'écran
