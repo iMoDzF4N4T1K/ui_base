@@ -17,4 +17,4 @@ Variables :
 Si vous avez des questions, des demandes de fonctionnalités ou si vous rencontrez des bugs, veuillez créer une issue sur le [GitHub](https://github.com/iMoDzF4N4T1K/ui_base).
 
 ## Captures d'écran
-![Capture d'écran 1]([https://prnt.sc/a_fML3DJSCMF])
+![Capture d'écran 1](https://i.imgur.com/RSBVDko.png)
