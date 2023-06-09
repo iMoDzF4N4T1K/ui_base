@@ -17,7 +17,3 @@ Variables :
 Si vous avez des questions, des demandes de fonctionnalités ou si vous rencontrez des bugs, veuillez créer une issue sur le [dépôt GitHub](https://github.com/IMODZ4FUN/IMODZF4NTIK_Base).
 
 ## Captures d'écran
-![Capture d'écran 1](https://i.imgur.com/ZcNJnBb.png)
-![Capture d'écran 2](https://i.imgur.com/mK7uD2s.jpg)
-![Capture d'écran 3](https://i.imgur.com/dUdR08Z.png)
-![Capture d'écran 4](https://i.imgur.com/V4BJWA2.png)
