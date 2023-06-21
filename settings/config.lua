@@ -13,7 +13,7 @@ config.disabledActions = {
     "switch_next_vehicle", -- Passe au véhicule suivant
     "switch_previous_vehicle", -- Passe au véhicule précédent
     "loadHome", -- Déplace le véhicule à sa position de départ
-    --"saveHome", -- Enregistre la position actuelle du véhicule pour un accès rapide
+    "saveHome", -- Enregistre la position actuelle du véhicule pour un accès rapide
     "recover_vehicle", -- Rembobine la position du véhicule
     "reload_vehicle", -- Recharge les fichiers du véhicule à partir du disque
     "reload_all_vehicles", -- Recharge tous les fichiers de véhicules à partir du disque
